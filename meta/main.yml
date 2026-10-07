@@ -13,9 +13,7 @@ galaxy_info:
         - bookworm
     - name: Ubuntu
       versions:
-        - bionic
-        - focal
-        - jammy
+        - resolute
         - noble
     - name: EL
       versions:
@@ -23,9 +21,8 @@ galaxy_info:
         - 9
     - name: Fedora
       versions:
-        - 38
-        - 39
-        - 40
+        - "44"
+        - "43"
     - name: macOS
       versions:
         - all
