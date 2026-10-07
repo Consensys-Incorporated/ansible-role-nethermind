@@ -13,7 +13,6 @@ Ansible role that will install, configure and runs [Nethermind](https://nethermi
 ### Supported Platforms
 ```
 * MacOS
-* Debian
 * Ubuntu
 * Redhat(CentOS/Fedora)
 * Amazon

@@ -7,18 +7,14 @@ galaxy_info:
   license: license (Apache)
   min_ansible_version: "2.17"
   platforms:
-    - name: Debian
-      versions:
-        - bullseye
-        - bookworm
     - name: Ubuntu
       versions:
         - resolute
         - noble
     - name: EL
       versions:
-        - 8
-        - 9
+        - "10"
+        - "9"
     - name: Fedora
       versions:
         - "44"
